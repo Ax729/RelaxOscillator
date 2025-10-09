@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
-project:
-  title:        ""      # Project title
-  author:       ""      # Your name
+project: Relax Oscilator
+  title:        "RelaxOscilator"      # Project title
+  author:       "Universidad Autònoma de Baja California"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  ""      # One line description of what your project does
   language:     "Analog" # other examples include Verilog, Amaranth, VHDL, etc
