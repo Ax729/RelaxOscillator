@@ -11,10 +11,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 Aquì debo poner una explicaciòn de còmo funciona dicho circuito
 
+ El circuito usa el propio ruido interno que producen los componentes para poder generar 
+
 ## How to test
 
-Aquí cómo usar dicho circuito
+El circuito tiene 
 
 ## External hardware
 
-Aquì debo poner una lista del hardware usado en el proyecto
+Aquì debo poner una lista del hardware usado en el proyecto (por ejemplo leds)
