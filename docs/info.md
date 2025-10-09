@@ -17,5 +17,4 @@ Aquí cómo usar dicho circuito
 
 ## External hardware
 
-Aquì debo poner una
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Aquì debo poner una lista del hardware usado en el proyecto
