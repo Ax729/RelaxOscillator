@@ -1,5 +1,5 @@
 # Tiny Tapeout project information
-project: "Relax Oscillator"
+project: "project"
   title:        "tt_relax_Oscillator"      # Project title
   author:       "Universidad Autònoma de Baja California"      # Your name
   discord:      "IndraXj"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
