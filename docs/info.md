@@ -9,14 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Aquì debo poner una explicaciòn de còmo funciona dicho circuito
-
- El circuito usa el propio ruido interno que producen los componentes para poder generar 
+El circuito usa el propio ruido interno que producen los componentes para poder generar una señal no senoidal gracias a unos capacitores que se cargaràn mediante una fuente externa de voltaje, 
 
 ## How to test
 
-El circuito tiene 
+El circuito una salida de señal y una salida de tierra, se usarà una sonda de osciloscopio para registrar la señal
 
 ## External hardware
 
-Aquì debo poner una lista del hardware usado en el proyecto (por ejemplo leds)
+Este  circuito no hace uso de ningún hardware externo
