@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project: "Relax Oscillator"
-  title:        "tt_Relax_Oscillator"      # Project title
+  title:        "tt_relax_Oscillator"      # Project title
   author:       "Universidad Autònoma de Baja California"      # Your name
   discord:      "IndraXj"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Es un circuito oscilador usando compuertas lògicas"      # One line description of what your project does
