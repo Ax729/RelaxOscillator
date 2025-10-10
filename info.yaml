@@ -1,11 +1,11 @@
 # Tiny Tapeout project information
-project: "tt_um_relax_oscillator";
-  title:        "tt_um_relax_oscillator";      # Project title
-  author:       "Universidad Autònoma de Baja California";      # Your name
-  discord:      "IndraXj";      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Es un circuito oscilador usando compuertas lògicas";      # One line description of what your project does
-  language:     "Analog"; # other examples include Verilog, Amaranth, VHDL, etc
-  clock_hz:     0;       # Clock frequency in Hz (or 0 if not applicable)
+project: "tt_um_relaxoscillator"
+  title:        "tt_um_relax_oscillator"      # Project title
+  author:       "Universidad Autònoma de Baja California"      # Your name
+  discord:      "IndraXj"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "Es un circuito oscilador usando compuertas lògicas"      # One line description of what your project does
+  language:     "Analog" # other examples include Verilog, Amaranth, VHDL, etc
+  clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
   # How many tiles your design occupies? A single tile is about 167x108 uM.
   tiles: "1x2"          # Valid values for analog projects: 1x2, 2x2
