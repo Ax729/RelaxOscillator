@@ -36,7 +36,7 @@ pinout:
 
   # Outputs
   uo[0]: "enable 1"
-  uo[1]: "enable  2"
+  uo[1]: "enable 2"
   uo[2]: "."
   uo[3]: ""
   uo[4]: ""
@@ -55,8 +55,8 @@ pinout:
   uio[7]: ""
 
   # Analog pins - make sure to also set "analog_pins" above, else the pins won't be connected
-  ua[0]: "CAT positivo"
-  ua[1]: "CAT negativo"
+  ua[0]: "DAC positivo"
+  ua[1]: "DAC negativo"
   ua[2]: ""
   ua[3]: ""
   ua[4]: ""
