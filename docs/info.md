@@ -9,11 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-El circuito usa el propio ruido interno que producen los componentes para poder generar una señal no senoidal gracias a unos capacitores que se cargaràn mediante una fuente externa de voltaje, 
+El circuito es un oscilador de tipo reloj que usa un par de capacitores para tener una potencia inicial.
 
 ## How to test
-
-El circuito una salida de señal y una salida de tierra, se usarà una sonda de osciloscopio para registrar la señal
+Tiene un par de salidas digitales y 
 
 ## External hardware
 
