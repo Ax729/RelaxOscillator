@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-El circuito es un oscilador de tipo reloj que usa un par de capacitores para tener una potencia inicial.
+El circuito es un oscilador de tipo reloj que usa un par de capacitores para tener una señal inicial.
 
 ## How to test
-Tiene un par de salidas digitales y 
+Favor de introducir la forma de testeo del circuito elaborado.
 
 ## External hardware
 
-Este  circuito no hace uso de ningún hardware externo
+Este  circuito no hace uso de ningún hardware externo.
