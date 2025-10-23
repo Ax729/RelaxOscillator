@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-El circuito es un oscilador de tipo reloj que usa un par de capacitores para tener una señal inicial.
+El circuito es un oscilador digital de tipo reloj que usa un par de capacitores para tener una señal inicial.
 
 ## How to test
 Favor de introducir la forma de testeo del circuito elaborado.
